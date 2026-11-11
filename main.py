@@ -5,7 +5,7 @@ import pygame as pg
 from random import randrange
 
 # Define tamanhado da janela que vai rodar o jogo
-JANELA = 700
+JANELA = 1000
 
 # Inicialização da janela com a função set_mode, passando JANELA
 tela = pg.display.set_mode([JANELA] * 2)
