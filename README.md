@@ -1,7 +1,7 @@
 <h1 align="center" style="font-weight: bold;">Jogo da Cobrinha</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pygame/pygame/main/docs/reST/_static/pygame_tiny.png" alt="logo" width="120px">
+  <img src="https://raw.githubusercontent.com/pygame/pygame/main/docs/reST/_static/pygame_tiny.png" alt="logo" width="300px">
 </p>
 
 [PYTHON__BADGE]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
@@ -22,7 +22,7 @@
 <h2 id="layout">🎨 Preview</h2>
 
 <p align="center">
-    <img src="" alt="Imagem de exemplo" width="800px">
+    <img src="m_project/cobrinha.gif" alt="Imagem" width="800px">
 </p>
 
 <h2 id="tech">💻 Tecnologias</h2>
