@@ -22,7 +22,7 @@
 <h2 id="layout">🎨 Preview</h2>
 
 <p align="center">
-    <img src="m_project/cobrinha.gif" alt="Imagem" width="800px">
+    <img src="m_project/cobrinha.gif" alt="Imagem" width="600px">
 </p>
 
 <h2 id="tech">💻 Tecnologias</h2>
